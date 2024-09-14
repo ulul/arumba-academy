@@ -1,0 +1,16 @@
+{
+    "name": "mac/belajar-php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        },
+        "files": ["Helpers/DateHelper.php"]
+    },
+    "authors": [
+        {
+            "name": "Nuzulul Huda",
+            "email": "hudanuzulul@gmail.com"
+        }
+    ],
+    "require": {}
+}
